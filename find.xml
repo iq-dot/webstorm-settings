@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../content-feed-engine/video-feeds/src/wibbitz.js - [suggestv-backend]'" />
-    <option name="defaultScopeName" value="File '.../content-feed-engine/video-feeds/src/wibbitz.js - [suggestv-backend]'" />
-    <option name="SEARCH_SCOPE" value="File '.../content-feed-engine/video-feeds/src/wibbitz.js - [suggestv-backend]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

@@ -5,6 +5,7 @@
       <mapping pattern="api" type="PLAIN_TEXT" />
       <mapping pattern="properties" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="lumi_access_level.js" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping pattern="README.md" type="StyleLint file" />
       <mapping pattern="FooterInfo" type="TypeScript JSX" />
